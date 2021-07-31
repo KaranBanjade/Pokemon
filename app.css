@@ -1,0 +1,14 @@
+div{
+    display: inline-block;
+    text-align: center;
+}
+img{
+    display: block;
+    transition: 0.8s;
+}
+img:hover{
+ transform: scale(2);
+}
+html{
+    background-color: antiquewhite;
+}
